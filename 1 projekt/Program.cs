@@ -7,7 +7,7 @@ namespace _1_projekt
         static void Main(string[] args)
         {
             Console.WriteLine("Connect to Github!");
-            int g = 2;
+            int g = 22;
         }
     }
 }
