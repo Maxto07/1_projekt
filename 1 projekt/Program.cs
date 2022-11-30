@@ -8,6 +8,7 @@ namespace _1_projekt
         {
             Console.WriteLine("Connect to Github!");
             int g = 22;
+            int h = 23;
         }
     }
 }
